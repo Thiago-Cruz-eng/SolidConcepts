@@ -5,7 +5,7 @@ node_moduleslib-cov
 *.dat
 *.out
 *.pid
-*.gz
+*.gzs
 *.swp
 
 pids
